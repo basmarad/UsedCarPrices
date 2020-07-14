@@ -16,5 +16,9 @@ We are going to build a predictive model of the car prices based on the descript
 ### Q3 How do the used cars ads cluster together? 
 Do the cars cluster based on their prices, brands, mileage?
 
+# Personal Motivation
+My main motivation behind working with such data set is to practise data cleaning and imputation techniques. 
+A goal of this project is to compare the predictive model performance with different imputation techniques to help me understand better how to decide which imputation strategy to use.
+
 
 
