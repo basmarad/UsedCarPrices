@@ -3,7 +3,7 @@ Data Cleaning + Exploration + Prices Prediction + Segmentation of used car ads o
 
 
 ## INTRODUCTION
-Over 50000 used cars scraped with Scrapy from Ebay-Kleinanzeigen. The content of the data is in German. The autos dataset download from Kaggle. Link: https://www.kaggle.com/orgesleka/used-cars-database/kernels
+Total of 50000 used cars scraped with Scrapy from Ebay-Kleinanzeigen. The content of the data is in German. The autos dataset download from Kaggle. Link: https://www.kaggle.com/orgesleka/used-cars-database/kernels
 
 Several questions can be asked while exploring the dataset such as:
 
