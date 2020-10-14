@@ -14,10 +14,10 @@ By computing the frequency of the ads of different car brands, we can get an ide
 We are going to build a predictive model of the car prices based on the descriptions provided in the ads.
 
 ### Q3 How do the used cars ads cluster together? 
-Do the cars cluster based on their prices, brands, mileage?
+What are the cars that cluster together based on A. price, B. powerPS C.Odometer ?
 
 ### Personal Motivation
-My main motivation behind working with such data set is to practise data cleaning and imputation techniques. 
+My main motivation behind working with such data set is to practise data cleaning as this data set was quite messy with a lot of missing values and outliers. 
 
 
 
