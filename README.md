@@ -1,4 +1,4 @@
-# UsedCarPrices
+# Used Car Prices Analysis and Prediction
 Data Cleaning + Exploration (EDA) + Prices Prediction (Random Forest & Gradient Boosting) + Segmentation of used car ads on Craigslist/German website( Cluster analysis using GMM).
 
 
